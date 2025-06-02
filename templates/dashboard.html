@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Threat Detection Logs</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Automated Threat Detection</h1>
+    <button onclick="startDetection()">Start Face Authentication</button>
+    <script>
+        function startDetection() {
+            fetch("/start-detection", {
+                method: "POST"
+            })
+            .then(response => response.json())
+            .then(data => alert(data.status));
+        }
+    </script>
+</body>
+</html>
