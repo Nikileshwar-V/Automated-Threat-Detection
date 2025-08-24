@@ -247,4 +247,4 @@ Add your preferred license (e.g., MIT) as `LICENSE`. Update this section accordi
 ---
 
 ## Author
-##NIKILESHWAR.V## MCA Student | AI/ML Enthusiast | Open to Internships, Job roles & Collaboration in real time projects 📫 Connect with me: https://www.linkedin.com/in/nikileshwarv/
+NIKILESHWAR.V MCA Student | AI/ML Enthusiast | Open to Internships, Job roles & Collaboration in real time projects 📫 Connect with me: https://www.linkedin.com/in/nikileshwarv/
